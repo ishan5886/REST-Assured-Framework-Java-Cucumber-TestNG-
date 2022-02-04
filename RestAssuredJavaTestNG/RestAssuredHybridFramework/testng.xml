@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="UsersRestAPISuite">
+<listeners>
+	<listener class-name="com.api.utilities.Listeners" />
+</listeners>
+	<test thread-count="5" name="EmployeesRestAPITest">
+		<classes>
+			<class name="com.api.testcases.TC001_Get_All_Users" />
+			<class name="com.api.testcases.TC002_Get_Single_User" />
+			<class name="com.api.testcases.TC003_Post_User_Record" />
+			<class name="com.api.testcases.TC004_Put_Update_User_Record" />
+			<class name="com.api.testcases.TC005_Delete_User_Record" />
+			
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

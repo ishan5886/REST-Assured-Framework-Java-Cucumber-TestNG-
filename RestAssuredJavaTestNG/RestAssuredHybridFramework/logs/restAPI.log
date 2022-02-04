@@ -1,0 +1,172 @@
+2022-01-21 11:15:01 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:15:09 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:26:28 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:26:36 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:36:28 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 11:36:32 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 11:36:32 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 11:36:32 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 11:36:32 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 11:36:32 INFO  Reqres Users API:72 - Response Time is ==>1954
+2022-01-21 11:36:32 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 11:36:32 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 11:36:32 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 11:36:32 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 11:36:32 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 11:36:32 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 11:36:32 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 11:36:32 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 11:36:32 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 11:36:32 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 11:36:32 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 11:36:32 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 11:36:40 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 11:36:40 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:36:46 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:41:37 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 11:41:40 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 11:41:40 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 11:41:40 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 11:41:40 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 11:41:40 INFO  Reqres Users API:72 - Response Time is ==>1619
+2022-01-21 11:41:40 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 11:41:40 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 11:41:40 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 11:41:40 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 11:41:40 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 11:41:40 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 11:41:40 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 11:41:40 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 11:41:40 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 11:41:40 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 11:41:40 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 11:41:40 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 11:41:48 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 11:41:48 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:41:55 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:50:45 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 11:50:48 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 11:50:48 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 11:50:48 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 11:50:48 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 11:50:48 INFO  Reqres Users API:72 - Response Time is ==>1704
+2022-01-21 11:50:48 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 11:50:48 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 11:50:48 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 11:50:48 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 11:50:48 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 11:50:48 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 11:50:48 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 11:50:48 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 11:50:48 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 11:50:48 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 11:50:48 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 11:50:48 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 11:50:56 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 11:50:56 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:51:02 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:52:33 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 11:52:36 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 11:52:36 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 11:52:36 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 11:52:36 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 11:52:36 INFO  Reqres Users API:72 - Response Time is ==>1666
+2022-01-21 11:52:36 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 11:52:36 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 11:52:36 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 11:52:36 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 11:52:36 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 11:52:36 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 11:52:36 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 11:52:36 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 11:52:36 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 11:52:36 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 11:52:36 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 11:52:36 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 11:52:44 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 11:52:44 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:52:50 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:54:30 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 11:54:34 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 11:54:34 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 11:54:34 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 11:54:34 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 11:54:34 INFO  Reqres Users API:72 - Response Time is ==>2808
+2022-01-21 11:54:34 WARN  Reqres Users API:75 - Response Time is greater than 2000
+2022-01-21 11:54:34 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 11:54:34 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 11:54:34 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 11:54:34 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 11:54:34 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 11:54:34 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 11:54:34 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 11:54:34 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 11:54:34 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 11:54:34 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 11:54:34 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 11:54:34 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 11:54:42 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 11:54:42 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 11:54:48 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 11:54:48 INFO  Reqres Users API:41 - *********Started TC004_PUT_User_Record **********
+2022-01-21 11:54:54 INFO  Reqres Users API:107 - *********  Finished TC004_PUT_User_Record **********
+2022-01-21 11:54:54 INFO  Reqres Users API:37 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 11:55:45 INFO  Reqres Users API:37 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:01:36 INFO  Reqres Users API:37 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:01:44 INFO  Reqres Users API:102 - *********  Finished TC005_Delete_Employee_Record **********
+2022-01-21 12:05:38 INFO  Reqres Users API:37 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:05:45 INFO  Reqres Users API:102 - *********  Finished TC005_Delete_Employee_Record **********
+2022-01-21 12:06:46 INFO  Reqres Users API:39 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:06:56 INFO  Reqres Users API:104 - *********  Finished TC005_Delete_Employee_Record **********
+2022-01-21 12:08:14 INFO  Reqres Users API:39 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:08:22 INFO  Reqres Users API:104 - *********  Finished TC005_Delete_Employee_Record **********
+2022-01-21 12:21:44 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 12:21:47 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 12:21:47 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 12:21:47 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 12:21:47 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 12:21:47 INFO  Reqres Users API:72 - Response Time is ==>1606
+2022-01-21 12:21:47 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 12:21:47 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 12:21:47 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 12:21:47 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 12:21:47 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 12:21:47 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 12:21:47 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 12:21:47 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 12:21:47 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 12:21:47 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 12:21:47 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 12:21:47 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 12:21:56 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 12:21:56 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 12:22:02 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 12:22:02 INFO  Reqres Users API:41 - *********Started TC004_PUT_User_Record **********
+2022-01-21 12:22:09 INFO  Reqres Users API:107 - *********  Finished TC004_PUT_User_Record **********
+2022-01-21 12:22:09 INFO  Reqres Users API:39 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:22:14 INFO  Reqres Users API:104 - *********  Finished TC005_Delete_Employee_Record **********
+2022-01-21 12:26:00 INFO  Reqres Users API:35 - *********Started TC001_Get_All_Users **********
+2022-01-21 12:26:01 INFO  Reqres Users API:98 - ***********  Checking Content Type **********
+2022-01-21 12:26:01 INFO  Reqres Users API:101 - Content type is ==>application/json; charset=utf-8
+2022-01-21 12:26:01 INFO  Reqres Users API:146 - ***********  Checking Cookies **********
+2022-01-21 12:26:01 INFO  Reqres Users API:69 - ***********  Checking Response Time **********
+2022-01-21 12:26:01 INFO  Reqres Users API:72 - Response Time is ==>1161
+2022-01-21 12:26:01 INFO  Reqres Users API:47 - ***********  Checking Respose Body **********
+2022-01-21 12:26:01 INFO  Reqres Users API:50 - Response Body==>{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2022-01-21 12:26:01 INFO  Reqres Users API:58 - ***********  Checking Status Code **********
+2022-01-21 12:26:01 INFO  Reqres Users API:61 - Status Code is ==>200
+2022-01-21 12:26:01 INFO  Reqres Users API:119 - ***********  Checking Content Encoding**********
+2022-01-21 12:26:01 INFO  Reqres Users API:122 - Content Encoding is==>gzip
+2022-01-21 12:26:01 INFO  Reqres Users API:108 - ***********  Checking Server Type **********
+2022-01-21 12:26:01 INFO  Reqres Users API:111 - Server Type is =>cloudflare
+2022-01-21 12:26:01 INFO  Reqres Users API:85 - ***********  Checking Status Line **********
+2022-01-21 12:26:01 INFO  Reqres Users API:88 - Status Line is ==>HTTP/1.1 200 OK
+2022-01-21 12:26:01 INFO  Reqres Users API:155 - *********  Finished TC001_Get_All_Employees **********
+2022-01-21 12:26:01 INFO  Reqres Users API:35 - *********Started TC002_Get_Single_User_Record **********
+2022-01-21 12:26:09 INFO  Reqres Users API:99 - *********  Finished TC002_Get_Single_Employee_Record **********
+2022-01-21 12:26:09 INFO  Reqres Users API:41 - *********Started TC003_Post_User_Record **********
+2022-01-21 12:26:16 INFO  Reqres Users API:107 - *********  Finished TC003_Post_User_Record **********
+2022-01-21 12:26:16 INFO  Reqres Users API:41 - *********Started TC004_PUT_User_Record **********
+2022-01-21 12:26:22 INFO  Reqres Users API:107 - *********  Finished TC004_PUT_User_Record **********
+2022-01-21 12:26:22 INFO  Reqres Users API:39 - *********Started TC005_Delete_Employee_Record **********
+2022-01-21 12:26:27 INFO  Reqres Users API:104 - *********  Finished TC005_Delete_Employee_Record **********

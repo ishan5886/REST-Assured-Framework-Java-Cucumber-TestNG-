@@ -1,0 +1,13 @@
+Dependencies:-
+
+Rest-assured
+json-schema-validator
+json-path
+xml-path
+testng
+java-hamcrest
+hamcrest-core
+
+
+
+https://xmltoolbox.appspot.com/xpath_generator.html - XML Path Finder

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-20T20:47:28 IST" name="Default suite" finished-at="2022-01-20T20:47:37 IST" duration-ms="8907">
+    <groups>
+    </groups>
+    <test started-at="2022-01-20T20:47:28 IST" name="Default test" finished-at="2022-01-20T20:47:37 IST" duration-ms="8907">
+      <class name="DataDrivenAPITesting.DDT_TC_001_POST_Add_New_Users">
+        <test-method signature="postNewUsers(java.lang.String,java.lang.String)[pri:0, instance:DataDrivenAPITesting.DDT_TC_001_POST_Add_New_Users@b9b00e0]" started-at="2022-01-20T20:47:29 IST" name="postNewUsers" data-provider="userdataproviderexcel" finished-at="2022-01-20T20:47:33 IST" duration-ms="3721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ishan1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cricket1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewUsers -->
+        <test-method signature="postNewUsers(java.lang.String,java.lang.String)[pri:0, instance:DataDrivenAPITesting.DDT_TC_001_POST_Add_New_Users@b9b00e0]" started-at="2022-01-20T20:47:33 IST" name="postNewUsers" data-provider="userdataproviderexcel" finished-at="2022-01-20T20:47:35 IST" duration-ms="2100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ishan2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cricket2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewUsers -->
+        <test-method signature="postNewUsers(java.lang.String,java.lang.String)[pri:0, instance:DataDrivenAPITesting.DDT_TC_001_POST_Add_New_Users@b9b00e0]" started-at="2022-01-20T20:47:35 IST" name="postNewUsers" data-provider="userdataproviderexcel" finished-at="2022-01-20T20:47:37 IST" duration-ms="2648" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ishan3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cricket3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewUsers -->
+      </class> <!-- DataDrivenAPITesting.DDT_TC_001_POST_Add_New_Users -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
